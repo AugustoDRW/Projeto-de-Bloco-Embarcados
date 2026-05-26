@@ -1,0 +1,35 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Sat May 23 14:41:15 2026
+
+//Source file index table:
+//file0 "\E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/digital_mixer.v"
+//file1 "\E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/top.v"
+//file2 "\E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/tb_digital_mixer.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+n5crPAVqzSC30R4dR9NfnBUK1ebEm68uA9P1QXiAlWrQ/yGwbweoKtKy9L9lQWO+d9Z6tXEAPmvh
+C08OXCvr221jtz1IE2nFbLtONYhWbiQ5LiBq0fAa6Jl+1534CY0UOHHD3zh2zHSw+6aJi7wWxvUU
+MOBumWvD25A3aAyzL69yE1d4x1HpcxinlBkCMk9kUvsc+BSBGDLuaW/Uip3gJ/+aQkxhrgaz7ycM
+q5vkzcWmV2ZmidmfH5HmbH1DaHCG2LOouClt8sTZ3avHCW0Y/D/Ht2TXidCRH2dLKFqd/QOqWw0q
+WqOU/4SWa+AFQWyCFCy4sSPy04YBh9o0Itklew==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=224)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+UhfmEftxI78CZWThKoSLI04MGV80nOsjgSM54apQ3MJq2dto6d4QWzgc74Fda2grA9wfaVgUBSLb
+0VIVnN4SvhoU1H5kQxdJPpOM3P6Ad2K/JMGKJZ98AsWfPax5hxpSZSeF54UX3OdDFfUA7JGsEXIE
+hoV4Bk6LxOTA9wXmx1tqFKB+AeAwMO9iiOLM+Vpq189kRIDEhReeIk5ZOrmj8CI/Vu5aRlkk+UHd
+R3JlvtszIoZn1U+grRpLTS3/TSHJCWW2R3S6LzlACz8xbGhDG8S/b4TRIfw/hDACVYB8sp4=
+`pragma protect end_protected

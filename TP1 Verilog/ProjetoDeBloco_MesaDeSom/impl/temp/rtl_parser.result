@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/top.v",
+    "InstLine" : 21,
+    "InstName" : "meu_mixer",
+    "ModuleFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/digital_mixer.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "digital_mixer"
+   }
+  ]
+ }
+]

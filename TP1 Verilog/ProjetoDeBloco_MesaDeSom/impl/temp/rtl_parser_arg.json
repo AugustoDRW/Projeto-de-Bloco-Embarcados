@@ -1,0 +1,25 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/digital_mixer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/tb_digital_mixer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/ProjetoDeBloco_MesaDeSom/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
