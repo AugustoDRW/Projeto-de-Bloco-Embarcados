@@ -1,0 +1,21 @@
+{
+ "Device" : "GW1NSR-4C",
+ "Files" : [
+  {
+   "Path" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/src/spi_volume_slave.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

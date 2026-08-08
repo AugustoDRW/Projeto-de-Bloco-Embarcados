@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top_dois_canais",
+  "ModuleFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_dois_canais",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/src/top.v",
+    "InstLine" : 15,
+    "InstName" : "receptor",
+    "ModuleFile" : "E:/gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/Mesa de som simplificada/src/spi_volume_slave.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "spi_volume_slave"
+   }
+  ]
+ }
+]
